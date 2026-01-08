@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Meep!";
 ```
+
+- [X] Step 1
+- [X] Step 2
+- [ ] Step 3
